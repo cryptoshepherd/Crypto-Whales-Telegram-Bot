@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-   <img src="[https://bpcdn.co/images/2018/01/02092521/cryptowhale1.png]" alt="[whale]"/>
+   <img src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbpcdn.co%2Fimages%2F2018%2F01%2F02092521%2Fcryptowhale1.png&f=1&nofb=1]" alt="[whale]"/>
 </p>
 
 <h4 align="center">A Telegram Bot to Tracking Ethereum and Bitcoin Whales</h4>
