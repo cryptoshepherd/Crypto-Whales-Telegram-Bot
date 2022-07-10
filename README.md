@@ -23,10 +23,9 @@
 
 This Crypto Whales Alert Bot is design to send message to a Telegram Bot (yours) every time 
 an Ethereum or Bitcoin whale will perform a IN or OUT Tx. The Idea is to track down the 
-bigger Ethereum and Bitcoins whales to help you out to spot a new ERC20 token in case
-of an Ethereum whale or to help you out to spot the potentially best moment to buy 
-or sell your BTC
-
+bigger Ethereum and Bitcoins whales to help you to spot the next ERC20 token gem or to
+find the best moment to sell or buy BTC, do not try to guess, especially if your TA skills are weak.
+DCA can be use in conjunction or in replace.
 
 ## How to configure
 
