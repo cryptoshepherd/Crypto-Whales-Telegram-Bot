@@ -4,7 +4,8 @@
   <br>
 </h1>
 
-![whale](whale.png?style=centerme)
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
+[[whale.png]]
 
 <h4 align="center">A Telegram Bot to Tracking Ethereum and Bitcoin Whales</h4>
 
