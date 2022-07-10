@@ -21,7 +21,7 @@
 
 ## Important Notes
 
-This Crypto Whales Alert Bor is design to send message to a Telegram Bot (yours) every time 
+This Crypto Whales Alert Bot is design to send message to a Telegram Bot (yours) every time 
 an Ethereum or Bitcoin whale will perform a IN or OUT Tx. The Idea is to track down the 
 bigger Ethereum and Bitcoins whales to help you out to spot a new ERC20 token in case
 of an Ethereum whale or to help you out to spot the potentially best moment to buy 
@@ -52,6 +52,11 @@ passwd to your bot, via client as message. In case of issues, you can also have 
 
 https://pypi.org/project/telegram-send/
 https://www.rahielkasim.com/telegram-send/docs/api/
+
+
+To find Ethereum whales, you can use Debank (https://debank.com/ranking), while to find Bitcoins whales have a look at:
+
+https://www.youtube.com/watch?v=cxBQDWUNznc&list=WL&index=39 & https://www.youtube.com/watch?v=htq0i_ZdPY0&list=WL&index=40
 
 
 
