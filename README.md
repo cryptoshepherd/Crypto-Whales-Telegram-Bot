@@ -4,7 +4,9 @@
   <br>
 </h1>
 
+<p align="center">
 ![kcf](whale.png)
+</p>
 
 <h4 align="center">A Telegram Bot to Tracking Ethereum and Bitcoin Whales</h4>
 
