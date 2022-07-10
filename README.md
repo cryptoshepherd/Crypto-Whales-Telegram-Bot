@@ -15,6 +15,7 @@
   <a href="#key-features">How to configure </a> •
   <a href="#key-features">Key Features</a> •
   <a href="#credits">To do</a> •
+   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
 
@@ -61,6 +62,11 @@ passwd to your bot, via client as message.
 
 * Add Bitcoin Tracking Logic
 
+## Credits
+
+This code takes inspiration from:
+
+https://github.com/techwithtim/Ethereum-Wallet-Tracker & https://github.com/nickpagz/btc-whale-tracker
 
 
 ## License
