@@ -48,7 +48,10 @@ venv/bin/telegram-send configure
 ```
 
 You will be asked to insert your token to access the HTTP API first, after that you have to insert the generated telegram-send
-passwd to your bot, via client as message.
+passwd to your bot, via client as message. In case of issues, you can also have a look at:
+
+https://pypi.org/project/telegram-send/
+https://www.rahielkasim.com/telegram-send/docs/api/
 
 
 
