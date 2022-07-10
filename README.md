@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-![whale](whale.png)
+![whale](whale.png?style=centerme)
 
 <h4 align="center">A Telegram Bot to Tracking Ethereum and Bitcoin Whales</h4>
 
