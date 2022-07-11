@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=cxBQDWUNznc&list=WL&index=39 & https://www.youtu
 ## Key Features
 
 * The List of Ethereum as well Bitcoin addresses can be customized
-* Fully portable, this bot can runs on a VPS or whereever python 3.9.x is available
+* Fully portable, this bot can runs on a VPS or wherever python 3.9.x is available
 
 
 ## To do
