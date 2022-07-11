@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Crypto Whales Tracking Telegram Bot (On Going Project)
+  Crypto Whales Tracking Telegram Bot
   <br>
 </h1>
 
@@ -14,7 +14,6 @@
   <a href="#key-features">Important Notes </a> •
   <a href="#key-features">How to configure </a> •
   <a href="#key-features">Key Features</a> •
-  <a href="#credits">To do</a> •
    <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
@@ -64,10 +63,6 @@ https://www.youtube.com/watch?v=cxBQDWUNznc&list=WL&index=39 & https://www.youtu
 * The List of Ethereum as well Bitcoin addresses can be customized
 * Fully portable, this bot can runs on a VPS or wherever python 3.9.x is available
 
-
-## To do
-
-* Add Bitcoin Tracking Logic
 
 ## Credits
 
